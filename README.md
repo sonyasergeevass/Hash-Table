@@ -1,5 +1,5 @@
 # Hash-Table
-Organizing the data stucture as Hash Tables.
+Organizing the data stucture as Hash Tables. Practicing manual testing and unit testing.
 <br /> <br />
 Two main types of hash table was created: with chains and open addressing. 4 methods of key hashing are implemented. The programm was tested manually and with module pytest. The test result are in the picture below.
 The porpous of the programm is to study the structure of the hash table data and perform various testing.
